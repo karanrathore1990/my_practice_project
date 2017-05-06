@@ -6,7 +6,8 @@ public class Main
 	{
 		System.out.println("welcome karan");
 		System.out.println("hello krishna");
-		System.out.println("hello");
+
+System.out.println("sanker lal");
 	}
 	
 	public static void main(String str[])
